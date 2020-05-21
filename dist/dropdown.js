@@ -62,7 +62,7 @@ var Dropdown = function (_Component) {
                     _this.toggleExpanded(false);
                     break;
                 case 13: // Enter Key
-                case 32: // Space
+//                 case 32: // Space
                 case 40:
                     // Down Arrow
                     _this.toggleExpanded(true);
